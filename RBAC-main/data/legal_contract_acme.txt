@@ -1,0 +1,40 @@
+MASTER SERVICE AGREEMENT — ACME SUPPLY CHAIN SOLUTIONS
+
+Contract Reference: MSA-2026-0042
+Effective Date: January 1, 2026
+Parties: [Company] ("Client") and ACME Supply Chain Solutions ("Vendor")
+
+SECTION 1: SCOPE OF SERVICES
+
+Vendor shall provide the following services:
+- Cloud-based supply chain management platform (SaaS)
+- 24/7 technical support and incident response
+- Quarterly business reviews and performance reporting
+- Data migration services from legacy systems
+
+SECTION 2: TERM AND TERMINATION
+
+This Agreement shall be effective for an initial term of three (3) years. Either party may terminate with ninety (90) days written notice. Early termination penalties apply per Section 8.
+
+SECTION 3: DATA PROTECTION
+
+All personal data processed under this Agreement shall be handled in accordance with applicable data protection laws including GDPR and CCPA. Vendor shall implement appropriate technical and organizational measures.
+
+Personal data of the following individuals may be processed:
+- Employee contact information (names, emails, phone numbers)
+- Financial officer details: CFO Maria Chen (maria.chen@company.com, +1-555-0142)
+- Accounts payable contacts
+
+SECTION 4: PRICING AND PAYMENT
+
+Annual platform fee: $2.4M
+Implementation fee: $350K (one-time)
+Support tier: Premium (included in annual fee)
+Payment terms: Net 30 from invoice date
+
+SECTION 5: LIMITATION OF LIABILITY
+
+Neither party's aggregate liability shall exceed the total fees paid or payable during the twelve (12) months preceding the claim. Neither party shall be liable for indirect, incidental, or consequential damages.
+
+Prepared by: Legal Department — David Legal (david@enron.com)
+Reviewed by: Outside Counsel, Morrison & Associates

@@ -1,0 +1,39 @@
+QUARTERLY STRATEGIC REVIEW — Q2 2026
+
+Prepared by: Office of the Chief Executive
+Classification: CONFIDENTIAL
+
+EXECUTIVE SUMMARY
+
+The company achieved 18% revenue growth year-over-year, exceeding the board target of 15%. Key drivers include expansion into the APAC market and the successful launch of our enterprise SaaS platform.
+
+FINANCIAL HIGHLIGHTS
+
+Total Revenue: $847M (up from $718M Q2 2025)
+Net Income: $126M (margin: 14.9%)
+EBITDA: $198M
+Free Cash Flow: $142M
+
+The Executive team has approved a $50M investment in R&D for AI-driven products, to be deployed over the next 18 months. CFO Maria Chen will oversee the capital allocation.
+
+STRATEGIC PRIORITIES
+
+1. APAC Expansion — Target $200M in new ARR by Q4 2026. Hiring 150 sales engineers across Singapore, Tokyo, and Sydney offices.
+
+2. AI Product Line — Launch "KB Assist" enterprise knowledge base product by September 2026. Internal RAG system is already being tested.
+
+3. Talent Acquisition — Board approved headcount increase of 300 positions, primarily in engineering and product management.
+
+RISK FACTORS
+
+- Regulatory uncertainty in EU data governance (GDPR enforcement actions pending)
+- Supply chain constraints for hardware-dependent product lines
+- Key person dependency: CTO James Wright has signaled potential leave of absence
+
+ACTION ITEMS
+
+- Legal team to review APAC compliance framework by July 15
+- Finance to finalize R&D budget allocation by July 30
+- HR to present talent acquisition plan at next board meeting
+
+Contact: executive-team@company.com

@@ -1,0 +1,43 @@
+QUARTERLY FINANCIAL REPORT — Q2 2026
+
+Prepared by: Finance Department
+Classification: CONFIDENTIAL
+
+REVENUE BREAKDOWN
+
+Product Revenue:        $412M  (48.6%)
+Services Revenue:       $283M  (33.4%)
+Subscription Revenue:   $152M  (17.9%)
+Total Revenue:          $847M
+
+EXPENSE SUMMARY
+
+Cost of Goods Sold:     $302M  (35.6%)
+Research & Development: $168M  (19.8%)
+Sales & Marketing:      $142M  (16.8%)
+General & Administrative: $109M (12.9%)
+Total Expenses:         $721M
+
+NET INCOME: $126M (14.9% margin)
+
+BALANCE SHEET HIGHLIGHTS
+
+Cash & Equivalents:     $1.2B
+Accounts Receivable:    $287M
+Total Assets:           $3.8B
+Total Liabilities:      $1.9B
+Shareholders' Equity:   $1.9B
+
+KEY METRICS
+
+ARR (Annual Recurring Revenue): $1.84B
+Customer Retention Rate: 94.2%
+Average Revenue Per User: $48,200/year
+Days Sales Outstanding: 42 days
+
+NOTES FROM CFO
+
+The finance team has identified cost optimization opportunities in cloud infrastructure, projecting $12M in annual savings. Additionally, the accounts receivable team has reduced DSO from 51 to 42 days through improved collection processes.
+
+Contact: finance@company.com
+CFO: Maria Chen (maria.chen@company.com)

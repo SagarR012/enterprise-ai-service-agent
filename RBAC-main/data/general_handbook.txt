@@ -1,0 +1,45 @@
+EMPLOYEE HANDBOOK — 2026 EDITION
+
+Welcome to the company! This handbook covers essential policies and procedures.
+
+WORK HOURS AND FLEXIBILITY
+
+Core hours: 10:00 AM — 3:00 PM (local time)
+Flexible window: 7:00 AM — 7:00 PM
+Remote work: Up to 3 days per week with manager approval
+Hybrid schedule: Tuesday, Wednesday, Thursday in-office recommended
+
+PTO POLICY
+
+- New employees: 15 days PTO per year
+- After 3 years: 20 days PTO per year
+- After 7 years: 25 days PTO per year
+- Sick leave: 10 days per year (separate from PTO)
+- Parental leave: 16 weeks paid (birthing parent), 8 weeks paid (non-birthing)
+
+EXPENSE REIMBURSEMENT
+
+Expenses must be submitted within 30 days. Receipts required for all purchases over $25. Approved categories:
+- Travel (flights, hotels, ground transportation)
+- Meals during business travel (up to $75/day)
+- Professional development (courses, conferences, books)
+- Home office equipment (up to $500 one-time)
+
+IT SECURITY POLICY
+
+1. All devices must use full-disk encryption
+2. VPN required for remote access to internal systems
+3. Passwords: minimum 14 characters, rotated every 90 days
+4. Multi-factor authentication required for all SaaS applications
+5. Report security incidents to security@company.com within 1 hour
+
+ETHICS AND CONDUCT
+
+We maintain zero tolerance for harassment, discrimination, and fraud. All employees must complete annual ethics training. Concerns can be reported through the anonymous hotline: 1-800-555-ETHC.
+
+EMERGENCY CONTACTS
+
+HR Department: hr@company.com
+Facilities: facilities@company.com
+Security: security@company.com
+IT Help Desk: helpdesk@company.com (ext. 4357)
